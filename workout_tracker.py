@@ -1,4 +1,5 @@
-# Test git comment
+# This is an exercise tracker app which checks to see what your exercises are
+# and how long you did it for and if you completed it or not
 workouts = [
     {"Exercise": "Lifting", "Duration": 40, "Completed": True},
     {"Exercise": "Running", "Duration": 40, "Completed": False}

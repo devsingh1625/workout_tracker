@@ -1,3 +1,4 @@
+# Test git comment
 workouts = [
     {"Exercise": "Lifting", "Duration": 40, "Completed": True},
     {"Exercise": "Running", "Duration": 40, "Completed": False}
